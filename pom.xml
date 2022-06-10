@@ -51,7 +51,8 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:Anzammu/pet-clinic.git</developerConnection>
+		<url>https://github.com/Anzammu/pet-clinic</url>
+		<developerConnection>scm:git:https://github.com/Anzammu/pet-clinic.git</developerConnection>
 	  <tag>pet-clinic-0.0.1</tag>
   </scm>
 
