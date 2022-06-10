@@ -1,6 +1,6 @@
 package example.petclinic.model;
 
-public class PerType {
+public class PerType extends BaseEntity {
 
     private String name;
 
