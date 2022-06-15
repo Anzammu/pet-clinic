@@ -50,7 +50,7 @@ public class DataLoader implements CommandLineRunner {
 
         Speciality specialityTwo =new Speciality();
         specialityTwo.setDescription("speciality2");
-        Speciality savedspecialityTwo= specialityService.save(specialityTwo);
+        Speciality savedspecialityTwo = specialityService.save(specialityTwo);
 
 
         Speciality specialityThree =new Speciality();
